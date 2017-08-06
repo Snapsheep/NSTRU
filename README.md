@@ -1,2 +1,2 @@
-# NSTRU
+# NSTRU-SYSTEM
 Graduation project
