@@ -8,10 +8,10 @@ database connect in folder db : nstru_activity_system.sql
 input database sql : nstru_activity_system.sql
 
 table -> username 
-/* admin */
+//admin
 id :    admin1
 pass :  123456
 
-/* user */    
+//user   
 id :    user1-5   //user have 1-5 id
 pass :  123456    //password same 1-5 pass
