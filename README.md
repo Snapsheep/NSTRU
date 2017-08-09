@@ -7,7 +7,7 @@ database connect in folder db : nstru_activity_system.sql
 #How to login
 input database sql : nstru_activity_system.sql
 
-table -> username 
+#table -> username 
 //admin
 id :    admin1
 pass :  123456
